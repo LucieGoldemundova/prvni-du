@@ -1,0 +1,83 @@
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  color: #43585a;
+  background-color: #d0dbdc;
+  font-size: 25px;
+  text-align: center;
+}
+
+header {
+  overflow: auto;
+  margin: 50px;
+  display: inline-block;
+}
+
+h1 {
+  font-size: 70px;
+}
+
+.fotome {
+  width: 180px;
+  border-radius: 20%;
+  float: left;
+
+
+}
+
+.facebook,
+.linkedin,
+.instagram {
+  width: 55px;
+  padding-bottom: 30px;
+}
+
+h2 {
+  font-size: 50px;
+}
+
+.omne {
+  background-color: #82a0a3;
+  color: #d0dbdc;
+  padding: 20px 150px;
+}
+
+.motto {
+  font-style: italic;
+}
+
+.vzdelani {
+  padding: 20px 150px;
+}
+
+.vzdelani ul {
+  display: inline-block;
+  text-align: left;
+}
+
+.pracovnizkusenosti {
+  background-color: #82a0a3;
+  color: #d0dbdc;
+  
+  
+}
+
+.pracovnizkusenosti ul {
+  display: inline-block;
+
+}
+
+.zajmy {
+  margin: 50px;
+}
+
+.zajmy ul {
+  display: inline-block;
+  text-align: left;
+}
+
+footer {
+  background-color: #82a0a3;
+  color: #d0dbdc;
+  padding: 10px;
+}
